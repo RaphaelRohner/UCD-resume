@@ -16,6 +16,8 @@ GitHub
 GitPod
 Git
 Bootstrap
+Fontawesome
+Google Fonts
 
 ### Coming soon:
 Project finished so far.
@@ -24,4 +26,7 @@ Project finished so far.
 Code development & teaching: codeinstitue.com\
 Texts and Images: codeinstitue.com\
 Publishing: Git, GitPod & GitHub\
+CSS templates in use: https://getbootstrap.com/
+Icons in use: https://fontawesome.com/
+Fonts in use: https://fonts.google.com/
 HTML5 and CSS3 validation: W3Consortium
